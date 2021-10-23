@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609586630 source:c:\c\bagli_liste_anlama\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
